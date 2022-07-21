@@ -1,0 +1,5 @@
+Lita|0855555555|Kendal Jawa Tengah|||||
+Lita|0855555555|Kendal Jawa Tengah|Nisa|0899999999|Semarang Jawa Tengah|10|50000
+Lita|0855555555|Kendal Jawa Tengah|Nisa|0899999999|Semarang Jawa Tengah|10|50000
+a|0855555566|Semarang Jawa Tengah|b|08999999888|Salatiga Jawa Tengah|15|75000
+|||||||
